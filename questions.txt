@@ -1,0 +1,46 @@
+Science|easy|What planet is known as the Red Planet?|Mars|Venus|Jupiter|Saturn|A
+Science|easy|What part of the plant makes food?|Root|Stem|Leaf|Flower|C
+Science|easy|What gas do humans breathe in to survive?|Oxygen|Carbon Dioxide|Nitrogen|Hydrogen|A
+Science|easy|What part of the body pumps blood?|Brain|Heart|Lungs|Liver|B
+Science|easy|How many legs does an insect have?|4|6|8|10|B
+Science|medium|What is the boiling point of water in Celsius?|50|75|100|120|C
+Science|medium|What is the centre of an atom called?|Electron|Proton|Nucleus|Neutron|C
+Science|medium|What gas do plants absorb during photosynthesis?|Oxygen|Carbon Dioxide|Nitrogen|Hydrogen|B
+Science|medium|What vitamin do we get from sunlight?|Vitamin A|Vitamin B|Vitamin C|Vitamin D|D
+Science|medium|What is the largest organ in the human body?|Heart|Skin|Brain|Liver|B
+Science|hard|What is the chemical formula for glucose?|C6H12O6|CO2|H2O|NaCl|A
+Science|hard|What particle has a negative charge?|Proton|Neutron|Electron|Nucleus|C
+Science|hard|What is the speed of light in a vacuum?|3 x 10^8 m/s|3 x 10^6 m/s|3 x 10^5 m/s|3 x 10^7 m/s|A
+Science|hard|What is the pH value of a neutral substance?|0|7|14|10|B
+Science|hard|Which law states that energy cannot be created or destroyed?|Newton's First Law|Law of Conservation of Energy|Ohm's Law|Hooke's Law|B
+Computing|easy|What does CPU stand for?|Central Processing Unit|Computer Power Unit|Central Program Utility|Control Processing Unit|A
+Computing|easy|Which device is used to input text?|Mouse|Keyboard|Monitor|Printer|B
+Computing|easy|What does RAM stand for?|Random Access Memory|Run Access Memory|Real Access Memory|Read Access Memory|A
+Computing|easy|Which device displays output?|Keyboard|Mouse|Monitor|Speaker|C
+Computing|easy|Which device is used to store files permanently?|RAM|Hard Drive|CPU|Monitor|B
+Computing|medium|Which command is used to list files in Linux?|ls|cd|pwd|mkdir|A
+Computing|medium|What does GUI stand for?|Graphical User Interface|General User Input|Global User Interface|Graph User Input|A
+Computing|medium|Which language is mainly used for webpage structure?|Python|CSS|HTML|Java|C
+Computing|medium|What does OS stand for?|Open System|Operating System|Online System|Output System|B
+Computing|medium|Which command creates a new directory in Linux?|ls|cd|mkdir|touch|C
+Computing|hard|What does TCP stand for?|Transmission Control Protocol|Transfer Control Process|Transport Communication Protocol|Transmission Communication Process|A
+Computing|hard|Which sorting algorithm has an average complexity of O(n log n)?|Bubble sort|Merge sort|Selection sort|Insertion sort|B
+Computing|hard|What is the default port number for HTTP?|21|22|80|443|C
+Computing|hard|Which protocol is used to transfer files securely?|FTP|HTTP|SFTP|SMTP|C
+Computing|hard|What does RAM store temporarily?|Permanent files|Running programs|Operating systems only|Internet data only|B
+Geography|easy|What is the capital of France?|Berlin|Madrid|Paris|Rome|C
+Geography|easy|What is the capital of Ireland?|Dublin|Cork|Galway|Limerick|A
+Geography|easy|Which continent is Brazil in?|Europe|South America|North America|Asia|B
+Geography|easy|What is the largest ocean?|Atlantic|Indian|Pacific|Arctic|C
+Geography|easy|Which country is famous for the pyramids?|India|Egypt|China|Mexico|B
+Geography|medium|What is the longest river in the world?|Amazon|Nile|Yangtze|Mississippi|B
+Geography|medium|Which country has the largest population?|USA|India|China|Russia|B
+Geography|medium|What is the capital of Canada?|Toronto|Vancouver|Ottawa|Montreal|C
+Geography|medium|Which is the largest hot desert in the world?|Sahara|Gobi|Kalahari|Atacama|A
+Geography|medium|What is the capital of Spain?|Madrid|Barcelona|Seville|Valencia|A
+Geography|hard|Which country has the longest coastline?|USA|Canada|Australia|Russia|B
+Geography|hard|What is the smallest country in the world?|Vatican City|Andorra|Togo|Monaco|A
+Geography|hard|Mount Kilimanjaro is in which country?|Kenya|Ethiopia|Tanzania|Uganda|C
+Geography|hard|Which ocean is the deepest?|Atlantic|Indian|Pacific|Arctic|C
+Geography|hard|Which country shares the longest land border with the USA?|Canada|Mexico|Russia|Cuba|A
+Sport|hard|Who won the first FIFA World Cup?|France|Brazil|Uruguay|India|C
